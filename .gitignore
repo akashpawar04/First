@@ -3,3 +3,7 @@
 ################################################################################
 
 /First/obj/Debug
+/First/bin
+/First.Tests/obj/Debug
+/First.Tests/bin/Debug
+/packages
